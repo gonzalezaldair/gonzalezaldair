@@ -1,21 +1,13 @@
-### Hi there 👋
-
-
-**ALDAIR GONZALEZ ** Web Developer
-
-Algunos de mis Conocimientos
-
+### Hi there 👋, Mi nombre es Aldair Gonzalez
+Soy :
 -Tecnologo en Producción Multimedia
--Especialista Tecnologico En Gestion Y Seguridad de Bases de Datos
--Est. Ingenieria de Sistemas 
+-Especialista en Gestion y Seguridad de Bases de Datos
+-Est. Ingenieria de Sistemas
 
-Habilidades
+Skills: PHP / JS/ JAVASCRIPT / HTML / CSS
 
--Desarrollo Web PHP, JS, JQUERY
--Desarrollo en Java
+- 🔭 I’m currently working on this page. 
 
-Proximamente
 
--Desarrollador Mobil (Android, Flutter)
--Angular
+
 
