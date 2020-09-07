@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**gonzalezaldair/gonzalezaldair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**ALDAIR GONZALEZ ** Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Algunos de mis Conocimientos
+
+-Tecnologo en Producción Multimedia
+-Especialista Tecnologico En Gestion Y Seguridad de Bases de Datos
+-Est. Ingenieria de Sistemas 
+
+Habilidades
+
+-Desarrollo Web PHP, JS, JQUERY
+-Desarrollo en Java
+
+Proximamente
+
+-Desarrollador Mobil (Android, Flutter)
+
