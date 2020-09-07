@@ -17,4 +17,5 @@ Habilidades
 Proximamente
 
 -Desarrollador Mobil (Android, Flutter)
+-Angular
 
