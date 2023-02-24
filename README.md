@@ -4,10 +4,10 @@ Tecnologo en Producción Multimedia
 Especialista en Gestion y Seguridad de Bases de Datos
 Est. Ingenieria de Sistemas
 
-Skills: PHP / JS / JAVASCRIPT / HTML / CSS
+Skills: .NET / PHP / JQUERY / JAVASCRIPT / HTML / CSS
 
 - 🔭 I’m currently working on PEÑALOSA CORONA 
-- 🌱 I’m currently learning Fllutter, Android,  Angular Js  
+- 🌱 I’m currently learning .NET MAUI,  Angular Js  
 - 🤔 I’m looking for help with Integrar SAP con PHP 
 
 
