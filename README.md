@@ -2,7 +2,7 @@
 Soy : 
 Tecnologo en Producción Multimedia
 Especialista en Gestion y Seguridad de Bases de Datos
-Est. Ingenieria de Sistemas
+Ingenieria de Sistemas
 
 Skills: .NET / PHP / JQUERY / JAVASCRIPT / HTML / CSS
 
