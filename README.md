@@ -3,12 +3,13 @@ Soy :
 Tecnologo en Producción Multimedia
 Especialista en Gestion y Seguridad de Bases de Datos
 Ingeniero de Sistemas
+Especialista en Desarrollo de Software
+
 
 Skills: .NET / PHP / JQUERY / JAVASCRIPT / HTML / CSS
 
 - 🔭 Actualmente Laboro en PEÑALOSA CORONA 
-- 🌱Me encuentro explorando  .NET MAUI,  Angular Js  
-
+- 🌱Me encuentro explorando  React JS, Angular JS
 
 
 
