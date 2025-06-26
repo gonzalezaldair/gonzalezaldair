@@ -2,15 +2,15 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un ingeniero de sistemas especializado en desarrollo de software con experiencia en una variedad de tecnologías. Aquí encontrarás algunos de mis proyectos, así como contribuciones a proyectos de código abierto.
 
-## Sobre mí
+## 🧑‍💼 Sobre mí
 - 👨‍💻 Ingeniero de sistemas con cinco años de experiencia en desarrollo de software.
 - 🌐 Actualmente explorando tecnologías frontend como React y Angular.
 - 💼 Experiencia en integraciones con SAP Business One en versiones MSSQL y HANA DB.
 
-## Skills
-- Desarrollo Backend: .NET, .NET Framework, PHP
-- Desarrollo Frontend: HTML, CSS, JavaScript, jQuery
-- Frameworks: React, Angular
+## 🛠️ Skills
+- 🔧 **Desarrollo Backend:** .NET, .NET Framework, PHP
+- 🎨 **Desarrollo Frontend:** HTML, CSS, JavaScript, jQuery
+- 🧩 **Frameworks:** React, Angular
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -24,10 +24,14 @@
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/-SAP_HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
 
+## ✨ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzalezaldair&show_icons=true&theme=dark&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezaldair&layout=compact&theme=dark" />
+</div>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezaldair&layout=donut-horizontal&theme=dark) -->
-
-
-
 
 ## Proyectos Destacados
 
