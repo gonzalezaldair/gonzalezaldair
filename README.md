@@ -26,10 +26,29 @@
 
 ## ✨ GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/gonzalezaldair#gh-light-mode-only">
+    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=gonzalezaldair&count_private=true&show_icons=true&include_all_commits=true&custom_title=Aldair%20Gonzalez%20GitHub%20Stats&hide_border=true&hide_border=true&line_height=28&theme=graywhite" align="center" />
+  </a>
+    <!--<a href="https://github.com/erdkse#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=gonzalezaldair&count_private=true&show_icons=true&include_all_commits=true&custom_title=erdkse%20github%20stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
+    </a>-->
+    <a href="https://github.com/erdkse#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezaldair&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
+    </a>
+    <a href="https://github.com/erdkse#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=gonzalezaldair&count_private=true&show_icons=true&include_all_commits=true&custom_title=Aldair%20Gonzalez%20GitHub%20Stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
+    </a>
+    <a href="https://github.com/erdkse#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezaldair&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
+    </a>
+
+</p>
+
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gonzalezaldair&show_icons=true&theme=dark&hide=contribs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezaldair&layout=compact&theme=dark" />
-</div>
+</div>-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalezaldair&layout=donut-horizontal&theme=dark) -->
 
